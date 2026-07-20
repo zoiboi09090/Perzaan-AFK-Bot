@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "beastboy",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "funsmp-B91D.aternos.me",
