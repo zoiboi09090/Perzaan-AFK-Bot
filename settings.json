@@ -8,7 +8,7 @@
   "server": {
     "ip": "funsmp-B91D.aternos.me",
     "port": 27676,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
