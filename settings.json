@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "AFKBOT24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "funsmp-B91D.aternos.me",
     "port": 27676,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
